@@ -1,7 +1,5 @@
 # Rock, Paper, Scissors, Lizard, Spock - Clasificador de Gestos con Deep Learning
 
-![Banner](https://raw.githubusercontent.com/williamG7/Rock-Paper-Scissors-Lizard-Spock/main/header.jpg)
-
 ## Descripción
 
 Proyecto de **Deep Learning** que implementa un **Clasificador de Imágenes de Gestos** usando **Redes Neuronales Convolucionales (CNN)** capaz de reconocer y clasificar 5 categorías de gestos: Piedra, Papel, Tijeras, Lagarto y Spock. 
@@ -288,20 +286,7 @@ class PararEnAccuracy(tf.keras.callbacks.Callback):
 - Clasificación en tiempo real
 - Aplicación automática de reglas
 - Determinación de ganador
-
----
-
-## Mejoras Futuras
-
-- [ ] Implementar REST API para servir el modelo
-- [ ] Crear interfaz web (Flask/Streamlit)
-- [ ] Agregar soporte para video en tiempo real (webcam)
-- [ ] Fine-tuning con modelos preentrenados (ResNet, MobileNet)
-- [ ] Exportar modelo a TensorFlow Lite para móvil
-- [ ] Crear aplicación móvil con Flutter/React Native
-- [ ] Aumentar número de categorías (más gestos)
-- [ ] Implementar explicabilidad (Grad-CAM)
-
+  
 ---
 
 ## Troubleshooting
@@ -349,7 +334,6 @@ print(tf.config.list_physical_devices('GPU'))
 
 - 🔗 GitHub: [@williamG7](https://github.com/williamG7)
 - 📧 Email: contacto@williamguzman.dev
-- 💼 LinkedIn: [william-guzman](https://linkedin.com/in/william-guzman)
 
 ---
 
@@ -384,4 +368,3 @@ Si utilizas este proyecto en tu trabajo, se agradece:
 
 **¿Te gustó este proyecto? ⭐ Dale una estrella en GitHub**
 
-Última actualización: Junio 2026
