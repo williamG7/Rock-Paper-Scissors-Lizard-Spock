@@ -333,7 +333,6 @@ print(tf.config.list_physical_devices('GPU'))
 **William Guzmán**
 
 - 🔗 GitHub: [@williamG7](https://github.com/williamG7)
-- 📧 Email: contacto@williamguzman.dev
 
 ---
 
